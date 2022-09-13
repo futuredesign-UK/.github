@@ -1,7 +1,7 @@
 {
     "name": "FutureDesign-UK Organisation Workflow",
     "description": "FutureDesign-UK Organisation CI starter workflow.",
-    "iconName": "githubactions-svgrepo-com.svg",
+    "iconName": "githubactions-svgrepo-com",
     "categories": [
         "Go"
     ],
